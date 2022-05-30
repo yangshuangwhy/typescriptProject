@@ -1,0 +1,2 @@
+# typescriptProject
+eat snack
